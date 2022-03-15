@@ -1,5 +1,5 @@
 {
-  "name": "c5cl",
+  "name": "c5-test-library",
   "version": "0.0.19",
   "description": "component library for react",
   "main": "dist/cjs/index.js",
@@ -24,7 +24,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/C5m7b4/c5cl.git"
+    "url": "https://github.com/C5m7b4/c5-test-library.git"
   },
   "devDependencies": {
     "@babel/core": "^7.17.5",
